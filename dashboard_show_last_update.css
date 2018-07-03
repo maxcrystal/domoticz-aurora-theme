@@ -109,7 +109,7 @@ body.dashboard .lastupdated{opacity:0.4}
     
     #dashcontent .divider tr, #dashcontent .item tr {
         min-height: 55px;
-        border-radius:3px;
+        border-radius:0px;
     }
     
     #dashcontent /*.item:not(.withstatus)*/ #name{
