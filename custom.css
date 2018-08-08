@@ -1022,7 +1022,7 @@ div[class^="span"] table#itemtabletrippleicon > tbody> tr > td:first-of-type a{
 
 #type,
 .type {
-    /*color: #777;*/
+    color: #777;
     white-space: nowrap;
     text-indent: 144px;
     position: relative;

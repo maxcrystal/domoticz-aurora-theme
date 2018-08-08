@@ -75,7 +75,7 @@ This can give a nice effect with background images. */
     }
     body:not(.dashMobile) div.item tr > #name > span,
     body:not(.dashMobile) div.item tr > .name > span{
-        /*color: rgba(255,255,255,0.8)/*!important*/;
+        color: rgba(255,255,255,0.8) /*!important*/;
         opacity: .8;
     }
 
@@ -218,6 +218,7 @@ This can give a nice effect with background images. */
     }    
     
     body:not(.dashboard) #bigtext span{
+        color: rgba(255,255,255,0.8);
         background-image:none;
         background-color: transparent;
     }
